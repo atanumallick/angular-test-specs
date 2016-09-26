@@ -1,0 +1,14 @@
+{
+  "name": "angular-unit-test",
+  "description": "This is a custom app",
+  "main": "",
+  "authors": [
+    "Atanu Mallick"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
